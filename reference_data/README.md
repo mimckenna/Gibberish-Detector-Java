@@ -161,3 +161,31 @@ curl https://www.hiringfelons.com/hire-a-felon/florida/search.php?page=10 | sed 
 * https://africa-facts.org/african-last-names/
 * http://www.americanlastnames.us/last-names/Nigerian/O/O-0.html
 * http://www.americanlastnames.us/last-names/Nigerian/A/A-0.html
+
+### IE - Irish
+* https://pdf.cso.ie/www/pdf/20180227105506_Irish_Babies_Names_2013_full.pdf
+* https://www.behindthename.com/names/usage/irish/3
+* https://www.celticthunder.com/blog/2017/01/13/irish-surnames-meanings/
+* https://surnames.behindthename.com/names/usage/irish
+* http://www.americanlastnames.us/last-names/Irish/K/K-11.html
+
+### HR - Croatian
+* https://www.dzs.hr/default_e.htm
+* http://www.behindthename.com/names/usage/croatian/2
+* http://www.20000-names.com/male_croatian_names.htm
+* https://en.wikipedia.org/wiki/Croatian_name#Croatian_given_names
+* https://actacroatica.com/en/diaspora/world/
+* https://www.dzs.hr/Eng/censuses/census2011/results/htm/e01_01_31/E01_01_31.html
+* http://www.americanlastnames.us/last-names/Croatian/A/A-0.html
+
+### RO - Romanian
+* http://www.americanlastnames.us/last-names/Romanian/A/A-0.html
+* http://www.20000-names.com/female_romanian_names.htm
+* http://www.20000-names.com/male_romanian_names.htm
+* http://www.behindthename.com/top/lists/romania/2009
+* https://en.wikipedia.org/wiki/Romanian_name
+* http://www.metalhead.ro/articole/cele-mai-ciudate-nume-la-romani-aid45874
+
+### SE - Swedish
+* http://www.statistikdatabasen.scb.se/pxweb/en/ssd/START__BE__BE0001__BE0001G/BE0001ENamn10/?rxid=08cea6fc-f998-447b-961e-6dab06aa1826
+* http://www.statistikdatabasen.scb.se/pxweb/en/ssd/START__BE__BE0001__BE0001G/BE0001FNamn10/?rxid=08cea6fc-f998-447b-961e-6dab06aa1826

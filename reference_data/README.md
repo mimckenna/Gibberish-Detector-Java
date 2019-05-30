@@ -189,3 +189,13 @@ curl https://www.hiringfelons.com/hire-a-felon/florida/search.php?page=10 | sed 
 ### SE - Swedish
 * http://www.statistikdatabasen.scb.se/pxweb/en/ssd/START__BE__BE0001__BE0001G/BE0001ENamn10/?rxid=08cea6fc-f998-447b-961e-6dab06aa1826
 * http://www.statistikdatabasen.scb.se/pxweb/en/ssd/START__BE__BE0001__BE0001G/BE0001FNamn10/?rxid=08cea6fc-f998-447b-961e-6dab06aa1826
+
+### IT - Italian
+* https://www.paginebianche.it/A.htm
+* https://www.repubblica.it/robinson/2019/05/07/news/appello_per_la_storia_le_firme_dei_lettori_3-225642633/?ref=drac-2
+* https://www.istat.it/it/dati-analisi-e-prodotti/contenuti-interattivi/contanomi
+* https://www.istat.it/it/files//2015/11/Natalità_fecondita_2014.pdf
+* https://it.wikipedia.org/wiki/Prenomi_italiani_(A-L)
+* https://it.wikipedia.org/wiki/Prenomi_italiani_(M-Z)
+* http://www.gooo.it/nomimas.html
+* http://www.gooo.it/nomifem.html

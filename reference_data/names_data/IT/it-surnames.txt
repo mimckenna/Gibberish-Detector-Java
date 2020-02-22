@@ -2377,6 +2377,7 @@ Bado'
 Badocco
 Badodi
 Badoer
+Badoglio
 Badolato
 Badon
 Baeli
@@ -6308,7 +6309,7 @@ Bruneri
 Brunero
 Brunett
 Brunetta
-brunetti
+Brunetti
 Brunettini
 Brunetto
 Bruni
@@ -7370,7 +7371,6 @@ Calluso
 Calmi
 Calo
 Calò
-Calo'
 Calocero
 Calogero
 Calogiuri
@@ -11916,7 +11916,6 @@ Cominelli
 Cominetti
 Comini
 Comino
-Comino,
 Cominoli
 Cominotti
 Cominotto

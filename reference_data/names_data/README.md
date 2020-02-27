@@ -102,7 +102,7 @@ https://www.data.gouv.fr/fr/datasets/liste-de-prenoms/ - French government List 
 
 ### GB - United Kingdom
 https://one-name.org/surnames_a-z/
-https://one-name.org/modern-british-surnames/statistics/top-surnames/
+https://one-name.org/modern-british-surnames/distribution/english-names/
 http://britishsurnames.co.uk/surnames
 https://www.galbithink.org/names/engb1800.htm
 http://users.trytel.com/~tristan/towns/mapp1_2.html

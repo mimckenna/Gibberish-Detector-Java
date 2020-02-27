@@ -1445,13 +1445,7 @@ Bacco
 Bachisia
 Bachisio
 Bacolo
-Badoglio
 Baganella
-Bagliani
-Baingia
-Baingio
-Baiolo
-Baiulo
 Balbina
 Balbino
 Balbir
@@ -1867,7 +1861,6 @@ Brunello
 Brunera
 Brunero
 Brunetta
-Brunetti
 Brunetto
 Bruni
 Brunilda
@@ -1972,8 +1965,6 @@ Candeloro
 Candida
 Candidi
 Candido
-Cane
-Cani
 Canio
 Cannata
 Canocchi
@@ -1999,7 +1990,6 @@ Carbone
 Cardellini
 Cardenio
 Cardina
-Carducci
 Carduccio
 Caria
 Carilao
@@ -5156,6 +5146,7 @@ Giambaldo
 Giambattista
 Giammarco
 Giammaria
+Giammaria
 Giammario
 Giammartino
 Giammauro
@@ -5163,6 +5154,7 @@ Giampaola
 Giampaolo
 Giampiera
 Giampiero
+Giampietro
 Giampietro
 Gian
 Gian Battista
@@ -5175,14 +5167,11 @@ Gian Luca
 Gian Luigi
 Gian Marco
 Gian Maria
-Gian Maria, Giammaria
 Gian Mario
 Gian Paolo
 Gian Piero
 Gian Pietro
-Gian Pietro, Giampietro
 Gian Stefano
-Gian-maria
 Giana
 Gianalfredo
 Gianandrea
@@ -5550,7 +5539,6 @@ Goita
 Goito
 Golfiero
 Golfredo
-Golia
 Goliarda
 Goliardo
 Gonaria
@@ -9813,19 +9801,15 @@ Ridano
 Rideo
 Ridha
 Ridio
-Rido
 Ridolfo
 Riedo
 Riego
-Riello
 Rienzo
 Rifeo
 Rifredo
-Riga
 Riger
 Righetto
 Riginaldo
-Rigo
 Rigoberta
 Rigoberto
 Rigoletta
@@ -9914,7 +9898,7 @@ Roberti
 Robertina
 Robertino
 Roberto
-Roberto Cesidio Giov
+Roberto Cesidio 
 Roberto Federico
 Roberto Luigi
 Robin
@@ -10041,7 +10025,6 @@ Rondolfo
 Rone
 Ronerto
 Ronny
-Ronzino
 Ropeo
 Rosa
 Rosa Alba
@@ -10313,7 +10296,6 @@ Sapiente
 Sapienza
 Sapore
 Sara
-Sarà
 Sarah
 Sarah Julia
 Sarbello
@@ -10366,7 +10348,6 @@ Savoia
 Scala
 Scevola
 Scevolina
-Schweinberger
 Scilla
 Scintilla
 Scipio
@@ -10426,7 +10407,7 @@ Senatro
 Seneca
 Senesio
 Sennen
-Sennes, Zennen
+Sennes 
 Senocrate
 Senofane
 Senofonte
@@ -11798,12 +11779,9 @@ Wegner
 Weiman
 Weis
 Weiss
-Weissenegger
-Weissensteiner
 Weissteiner
 Weithaler
 Welleda
-Wellenzohn Schuster
 Welma
 Wendy
 Wenin
@@ -11815,10 +11793,8 @@ Werter
 Werth
 Werther
 Weslie
-Westermayer
 Wiam
 Widad
-Widmann
 Widmer
 Wiel
 Wieland
@@ -11949,6 +11925,7 @@ Zena
 Zenaide
 Zenia
 Zenio
+Zennen
 Zeno
 Zenobia
 Zenobio

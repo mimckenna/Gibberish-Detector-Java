@@ -8,7 +8,7 @@ DIR=`dirname "$0"`
 
 for name_set in "$@" ; do
 	echo Running analysis for $name_set
-	for pat in repeating badwords business keyboard singlechar honorifics ; do
+	for pat in repeating badwords business keyboard singlechar honorifics email allnumbers letternumbers ; do
 		echo Checking bad ${pat} in $name_set
 		egrep -i -E -f $DIR/pat_$pat.grep $name_set | sed -e 's///' -e "s/\$/	${pat}/" > $name_set.$pat.check
 	done

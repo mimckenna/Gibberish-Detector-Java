@@ -1,0 +1,499 @@
+Invalid Latin: `[^abcdefghii̇́i̇̃i̇̀jj̃j̇̃kll̃mm̃nopqrr̃stuvwxyzßàáâãäåæçèéêëìííj́îïðñòóôõöøùúûüýþÿāăąćċčďđēĕėęěğġģħĩī
+ĭįıĳķĺļľŀłńņňŋōŏőœŕŗřśŝşšţťŧũūŭůűųŵŷźżžơưǅǆǈǉǋǌǎǔǥǧǩǯǲǳǿșțȟəʒḃḋḓḟḽṁṅṋṗṡṫṱẁẃẅẞạảấầẩẫậắằẳẵặẹẻẽếềểễệỉịọỏốồổỗộớờởỡợụủứ
+ừửữựỳỵỷỹỺỻꜶꜷﬀą́ą̃ė́ė̃ę́ę̃į́į̃ū́ū̃ų́ų̃į̇́į̇̃ \-`´'\.ˇ·¨(),]`
+
+Not Vowels: `^[^aeii̇́i̇̃i̇̀ouyàáâãäåæèéêëìííîïòóôõöøùúûüýÿąēĕėęěĩīòóôõöøùúûüýÿāăąēĕėęěĩīĭįıŋōŏőœũūŭůűųŷźżžơưǎǔǯǿəʒạảấầẩẫậắằẳẵặẹẻẽếềểễệỉịọỏốồổỗộớờởỡợụủứừửữựỳỵỷỹꜷą́ą̃ė́ė̃ę́ę̃į́į̃ū́ū̃ų́ų̃į̇́į̇̃]\+$`
+
+BE/nl-BE-givenNames.txt:
+	a	32 poeple in Belgium with the name "A"
+	m	14 poeple in Belgium with the male name "M"
+	md	111 people in Belgium with the male name "Md"A, 280 in DE
+	ng	120 People in Flanders region of Belgium, Chinese surname
+CZ/cs-train.txt:
+	Brchl ( 13 )
+	Brd ( 1 )
+	Brkl ( 26 )
+	Brt ( 25 )
+	Chrt ( 128 )
+	Chrz ( 90 )
+	Crk ( 16 )
+	Cvrk ( 143 )
+	Drn ( 4 )
+	Drs ( 93 )
+	Frk ( 174 )
+	Hrb ( 29 )
+	Hrk ( 19 )
+	Klč ( 18 )
+	Krb ( 37 )
+	Krch ( 282 )
+	Krs ( 134 )
+	Krt ( 17 )
+	Krš ( 24 )
+	Krč ( 460 )
+	Kĺč ( 2 )
+	Mlch ( 34 )
+	Mls ( 45 )
+	Ng ( 1 )
+	Plch ( 529 )
+	Plh ( 2 )
+	Smrc ( 4 )
+	Smrt ( 77 )
+	Srb ( 764 )
+	Srch ( 94 )
+	Srp ( 459 )
+	Trch ( 20 )
+	Trms ( 2 )
+	Trn ( 34 )
+	Trs ( 89 )
+	Trš ( 65 )
+	Trč ( 69 )
+	Tvrz ( 238 )
+	Vlk ( 2 )
+	Vlk ( 3259 )
+	Vlč ( 34 )
+	Šprc ( 10 )
+DE/de-familyNames.txt:
+	clt	3 names http://www.name-statistics.org/de/numef.php?numedefamilie=clt 
+	grs	134 names http://www.name-statistics.org/de/numef.php?numedefamilie=grs
+	prs	70 names http://www.name-statistics.org/de/numef.php?numedefamilie=prs
+	stg	203 names http://www.name-statistics.org/de/numef.php?numedefamilie=stg
+FI/fi-givenNames.txt:
+	jr	112 names https://verkkopalvelu.vrk.fi/nimipalvelu/nimipalvelu_etunimihaku.asp?L=3
+	jr.	132 names https://verkkopalvelu.vrk.fi/nimipalvelu/nimipalvelu_etunimihaku.asp?L=3
+	md	518 names https://verkkopalvelu.vrk.fi/nimipalvelu/nimipalvelu_etunimihaku.asp?L=3
+	md.	290 names https://verkkopalvelu.vrk.fi/nimipalvelu/nimipalvelu_etunimihaku.asp?L=3
+FR/fr-FR-givenNames.txt:
+	grwn
+FR/fr-FR-surnames.txt:
+	mm
+	ng
+	smrz
+	snp
+	vlc
+	vlk
+HU/hu-surnames.txt
+	blm	1 name https://www.radixindex.com/en/surnames/surname/blm
+	bnkl	1 name https://www.radixindex.com/en/surnames/surname/bnkl
+	brb	1 name https://www.radixindex.com/en/surnames/surname/brb
+	brch	1 name https://www.radixindex.com/en/surnames/surname/brch
+	brd	1 name https://www.radixindex.com/en/surnames/surname/brd
+	brjk	1 name https://www.radixindex.com/en/surnames/surname/brjk
+	brk	1 name https://www.radixindex.com/en/surnames/surname/brk
+	brkl	5 names https://www.radixindex.com/en/surnames/surname/brkl
+	brt	5 names https://www.radixindex.com/en/surnames/surname/brt
+	brzẏ	1 name https://www.radixindex.com/en/surnames/surname/brzy
+	cbr	1 name https://www.radixindex.com/en/surnames/surname/cbr
+	chrs	1 name https://www.radixindex.com/en/surnames/surname/chrs
+	chrt	18 names https://www.radixindex.com/en/surnames/surname/chrt
+	chrz	12 names https://www.radixindex.com/en/surnames/surname/chrz
+	cmrk	9 names https://www.radixindex.com/en/surnames/surname/cmrk
+	crk	6 names https://www.radixindex.com/en/surnames/surname/crk
+	crv	2 names https://www.radixindex.com/en/surnames/surname/crv
+	cs	2 names https://www.radixindex.com/en/surnames/surname/cs
+	cssz	1 name https://www.radixindex.com/en/surnames/surname/cssz
+	cvrk	26 names https://www.radixindex.com/en/surnames/surname/cvrk
+	drk	9 names https://www.radixindex.com/en/surnames/surname/drk
+	drn	1 name https://www.radixindex.com/en/surnames/surname/drn
+	drs	6 names https://www.radixindex.com/en/surnames/surname/drs
+	drz	1 name https://www.radixindex.com/en/surnames/surname/drz
+	drzd	1 name https://www.radixindex.com/en/surnames/surname/drzd
+	fldr	1 name https://www.radixindex.com/en/surnames/surname/fldr
+	flk	1 name https://www.radixindex.com/en/surnames/surname/flk
+	frk	30 names https://www.radixindex.com/en/surnames/surname/frk
+	frkl	1         m       14 poeple in Belgium with the male name "M"name https://www.radixindex.com/en/surnames/surname/frkl
+	frnk	1 name https://www.radixindex.com/en/surnames/surname/frnk
+	frnst	1 name https://www.radixindex.com/en/surnames/surname/frnst
+	gmk	1 name https://www.radixindex.com/en/surnames/surname/gmk
+	gnj	1 name https://www.radixindex.com/en/surnames/surname/gnj
+	grg	1 name https://www.radixindex.com/en/surnames/surname/grg
+	grk	3 name https://www.radixindex.com/en/surnames/surname/grk
+	grl	3 name https://www.radixindex.com/en/surnames/surname/grl
+	grlj	2 name https://www.radixindex.com/en/surnames/surname/grlj
+	grm	7 name https://www.radixindex.com/en/surnames/surname/grm
+	grsl	1 name https://www.radixindex.com/en/surnames/surname/grsl
+	hnj	1 name https://www.radixindex.com/en/surnames/surname/hnj
+	hrdl	1 name https://www.radixindex.com/en/surnames/surname/hrdl
+	hrdẏ	1 name https://www.radixindex.com/en/surnames/surname/hrdẏ
+	hrg	12 name https://www.radixindex.com/en/surnames/surname/hrg
+	hrh	2 name https://www.radixindex.com/en/surnames/surname/hrh
+	hrk	16 name https://www.radixindex.com/en/surnames/surname/hrk
+	hrn	1 name https://www.radixindex.com/en/surnames/surname/hrn
+	hrs	5 name https://www.radixindex.com/en/surnames/surname/hrs
+	hrstk	1 name https://www.radixindex.com/en/surnames/surname/hrstk
+	jszt	1 name https://www.radixindex.com/en/surnames/surname/jszt
+	klcs	6 name https://www.radixindex.com/en/surnames/surname/klcs
+	klm	1 name https://www.radixindex.com/en/surnames/surname/klm
+	knz	1 name https://www.radixindex.com/en/surnames/surname/knz
+	krb	7 name https://www.radixindex.com/en/surnames/surname/krb
+	krc	39 name https://www.radixindex.com/en/surnames/surname/krc
+	krch	26 name https://www.radixindex.com/en/surnames/surname/krch
+	krchs	1 name https://www.radixindex.com/en/surnames/surname/krchs
+	krcs	20 name https://www.radixindex.com/en/surnames/surname/krcs
+	krcz	3 name https://www.radixindex.com/en/surnames/surname/krcz
+	krcž	2 name https://www.radixindex.com/en/surnames/surname/krcž
+	krd	1 name https://www.radixindex.com/en/surnames/surname/krd
+	krk	1 name https://www.radixindex.com/en/surnames/surname/krk
+	krl	1 name https://www.radixindex.com/en/surnames/surname/krl
+	krn	1 name https://www.radixindex.com/en/surnames/surname/krn
+	krnh	1 name https://www.radixindex.com/en/surnames/surname/krnh
+	krpcz	1 name https://www.radixindex.com/en/surnames/surname/krpcz
+	krs	11 name https://www.radixindex.com/en/surnames/surname/krs
+	krt	6 name https://www.radixindex.com/en/surnames/surname/krt
+	krtch	1 name https://www.radixindex.com/en/surnames/surname/krtch
+	krtrc	1 name https://www.radixindex.com/en/surnames/surname/krtrc
+	krts	1 name https://www.radixindex.com/en/surnames/surname/krts
+	krtsch	3 name https://www.radixindex.com/en/surnames/surname/krtsch
+	krz	2 name https://www.radixindex.com/en/surnames/surname/krz
+	krzlj	2 name https://www.radixindex.com/en/surnames/surname/krzlj
+	krčz	1 name https://www.radixindex.com/en/surnames/surname/krčz
+	ksj	1 name https://www.radixindex.com/en/surnames/surname/ksj
+	kwtsch	1 name https://www.radixindex.com/en/surnames/surname/kwtsch
+	m.	1 name https://www.radixindex.com/en/surnames/surname/m.
+	mbl	1 name https://www.radixindex.com/en/surnames/surname/mbl
+	mjk	4 name https://www.radixindex.com/en/surnames/surname/mjk
+	mls	6 name https://www.radixindex.com/en/surnames/surname/mls
+	mrnk	1 name https://www.radixindex.com/en/surnames/surname/mrnk
+	pcrb	1 name https://www.radixindex.com/en/surnames/surname/pcrb
+	plch	38 name https://www.radixindex.com/en/surnames/surname/plch
+	pls	5 name https://www.radixindex.com/en/surnames/surname/pls
+	plss	10 name https://www.radixindex.com/en/surnames/surname/plss
+	prc	1 name https://www.radixindex.com/en/surnames/surname/prc
+	prchsl	1 name https://www.radixindex.com/en/surnames/surname/prchsl
+	prcs	3 name https://www.radixindex.com/en/surnames/surname/prcs
+	prjbjk	1 name https://www.radixindex.com/en/surnames/surname/prjbjk
+	prlj	2 name https://www.radixindex.com/en/surnames/surname/prlj
+	prntl	1 name https://www.radixindex.com/en/surnames/surname/prntl
+	rng	1 name https://www.radixindex.com/en/surnames/surname/rng
+	schmrsch	1 name https://www.radixindex.com/en/surnames/surname/schmrsch
+	schwb	1 name https://www.radixindex.com/en/surnames/surname/schwb
+	schwrz	1 name https://www.radixindex.com/en/surnames/surname/schwrz
+	skrk	4 name https://www.radixindex.com/en/surnames/surname/skrk
+	skrl	4 name https://www.radixindex.com/en/surnames/surname/skrl
+	skrlj	11 name https://www.radixindex.com/en/surnames/surname/skrlj
+	skrt	18 name https://www.radixindex.com/en/surnames/surname/skrt
+	slc	1 name https://www.radixindex.com/en/surnames/surname/slc
+	smrs	5 name https://www.radixindex.com/en/surnames/surname/smrs
+	smrsch	2 name https://www.radixindex.com/en/surnames/surname/smrsch
+	smrt	14 name https://www.radixindex.com/en/surnames/surname/smrt
+	smrz	76 name https://www.radixindex.com/en/surnames/surname/smrz
+	sprtt	1 name https://www.radixindex.com/en/surnames/surname/sprtt
+	srb	113 name https://www.radixindex.com/en/surnames/surname/srb
+	srch	3 name https://www.radixindex.com/en/surnames/surname/srch
+	srp	54 name https://www.radixindex.com/en/surnames/surname/srp
+	srt	1 name https://www.radixindex.com/en/surnames/surname/srt
+	strb	3 name https://www.radixindex.com/en/surnames/surname/strb
+	strjc	2 name https://www.radixindex.com/en/surnames/surname/strjc
+	strjz	1 name https://www.radixindex.com/en/surnames/surname/strjz
+	strk	25 name https://www.radixindex.com/en/surnames/surname/strk
+	szkrcs	4 name https://www.radixindex.com/en/surnames/surname/szkrcs
+	szp	1 name https://www.radixindex.com/en/surnames/surname/szp
+	szrb	5 name https://www.radixindex.com/en/surnames/surname/szrb
+	szsz	1 name https://www.radixindex.com/en/surnames/surname/szsz
+	szẏkẏ	1 name https://www.radixindex.com/en/surnames/surname/szẏkẏ
+	trc	6 name https://www.radixindex.com/en/surnames/surname/trc
+	trch	4 name https://www.radixindex.com/en/surnames/surname/trch
+	trk	2 name https://www.radixindex.com/en/surnames/surname/trk
+	trlj	1 name https://www.radixindex.com/en/surnames/surname/trlj
+	trp	2 name https://www.radixindex.com/en/surnames/surname/trp
+	trs	16 name https://www.radixindex.com/en/surnames/surname/trs
+	trst	1 name https://www.radixindex.com/en/surnames/surname/trst
+	trvz	1 name https://www.radixindex.com/en/surnames/surname/trvz
+	trz	2 name https://www.radixindex.com/en/surnames/surname/trz
+	tth	1 name https://www.radixindex.com/en/surnames/surname/tth
+	tvrz	22 name https://www.radixindex.com/en/surnames/surname/tvrz
+	vlc	4 name https://www.radixindex.com/en/surnames/surname/vlc
+	vlch	1 name https://www.radixindex.com/en/surnames/surname/vlch
+	vlk	348 name https://www.radixindex.com/en/surnames/surname/vlk
+	vlt	2 name https://www.radixindex.com/en/surnames/surname/vlt
+	vrch	2 name https://www.radixindex.com/en/surnames/surname/vrch
+	vrd	1 name https://www.radixindex.com/en/surnames/surname/vrd
+	vrh	9 name https://www.radixindex.com/en/surnames/surname/vrh
+	vrkkr	1 name https://www.radixindex.com/en/surnames/surname/vrkkr
+	vrs	1 name https://www.radixindex.com/en/surnames/surname/vrs
+	wlk	31 name https://www.radixindex.com/en/surnames/surname/wlk
+	wnck	1 name https://www.radixindex.com/en/surnames/surname/wnck
+	wrc	1 name https://www.radixindex.com/en/surnames/surname/wrc
+	xg	1 name https://www.radixindex.com/en/surnames/surname/xg
+	zdk	1 name https://www.radixindex.com/en/surnames/surname/zdk
+	zlg	1 name https://www.radixindex.com/en/surnames/surname/zlg
+	znjz	1 name https://www.radixindex.com/en/surnames/surname/znjz
+	zrnc	5 name https://www.radixindex.com/en/surnames/surname/zrnc
+	štrk	3 name https://www.radixindex.com/en/surnames/surname/štrk
+
+
+a	32 poeple in Belgium with the name "A"
+blm	1 name https://www.radixindex.com/en/surnames/surname/blm
+bnkl	1 name https://www.radixindex.com/en/surnames/surname/bnkl
+brb	1 name https://www.radixindex.com/en/surnames/surname/brb
+brch	1 name https://www.radixindex.com/en/surnames/surname/brch
+brchl
+brd
+brd	1 name https://www.radixindex.com/en/surnames/surname/brd
+brjk	1 name https://www.radixindex.com/en/surnames/surname/brjk
+brk	1 name https://www.radixindex.com/en/surnames/surname/brk
+brkl
+brkl	5 names https://www.radixindex.com/en/surnames/surname/brkl
+brt
+brt	5 names https://www.radixindex.com/en/surnames/surname/brt
+brzẏ	1 name https://www.radixindex.com/en/surnames/surname/brzy
+bǩ
+cbr	1 name https://www.radixindex.com/en/surnames/surname/cbr
+chrs	1 name https://www.radixindex.com/en/surnames/surname/chrs
+chrt
+chrt	18 names https://www.radixindex.com/en/surnames/surname/chrt
+chrz
+chrz	12 names https://www.radixindex.com/en/surnames/surname/chrz
+chrzšzcz
+chtr
+clt	3 names http://www.name-statistics.org/de/numef.php?numedefamilie=clt 
+cmrk	9 names https://www.radixindex.com/en/surnames/surname/cmrk
+crk
+crk	6 names https://www.radixindex.com/en/surnames/surname/crk
+crv	2 names https://www.radixindex.com/en/surnames/surname/crv
+cs	2 names https://www.radixindex.com/en/surnames/surname/cs
+cssz	1 name https://www.radixindex.com/en/surnames/surname/cssz
+cvrk
+cvrk	26 names https://www.radixindex.com/en/surnames/surname/cvrk
+drg
+drk	9 names https://www.radixindex.com/en/surnames/surname/drk
+drn
+drn	1 name https://www.radixindex.com/en/surnames/surname/drn
+drs
+drs	6 names https://www.radixindex.com/en/surnames/surname/drs
+drz	1 name https://www.radixindex.com/en/surnames/surname/drz
+drzd	1 name https://www.radixindex.com/en/surnames/surname/drzd
+drǧ
+fldr	1 name https://www.radixindex.com/en/surnames/surname/fldr
+flk	1 name https://www.radixindex.com/en/surnames/surname/flk
+frk
+frk	30 names https://www.radixindex.com/en/surnames/surname/frk
+frkl	1 name https://www.radixindex.com/en/surnames/surname/frkl
+frnk	1 name https://www.radixindex.com/en/surnames/surname/frnk
+frnst	1 name https://www.radixindex.com/en/surnames/surname/frnst
+frǩ
+gmk	1 name https://www.radixindex.com/en/surnames/surname/gmk
+gnj	1 name https://www.radixindex.com/en/surnames/surname/gnj
+grg	1 name https://www.radixindex.com/en/surnames/surname/grg
+grk	3 name https://www.radixindex.com/en/surnames/surname/grk
+grl	3 name https://www.radixindex.com/en/surnames/surname/grl
+grlj	2 name https://www.radixindex.com/en/surnames/surname/grlj
+grm	7 name https://www.radixindex.com/en/surnames/surname/grm
+grs	134 names http://www.name-statistics.org/de/numef.php?numedefamilie=grs
+grsl	1 name https://www.radixindex.com/en/surnames/surname/grsl
+grwn
+hnj	1 name https://www.radixindex.com/en/surnames/surname/hnj
+hrb
+hrdl	1 name https://www.radixindex.com/en/surnames/surname/hrdl
+hrdẏ	1 name https://www.radixindex.com/en/surnames/surname/hrdẏ
+hrg	12 name https://www.radixindex.com/en/surnames/surname/hrg
+hrh	2 name https://www.radixindex.com/en/surnames/surname/hrh
+hrk
+hrk	16 name https://www.radixindex.com/en/surnames/surname/hrk
+hrn	1 name https://www.radixindex.com/en/surnames/surname/hrn
+hrs	5 name https://www.radixindex.com/en/surnames/surname/hrs
+hrstk	1 name https://www.radixindex.com/en/surnames/surname/hrstk
+jr
+jr.
+jszt	1 name https://www.radixindex.com/en/surnames/surname/jszt
+khdr
+klcs	6 name https://www.radixindex.com/en/surnames/surname/klcs
+klm	1 name https://www.radixindex.com/en/surnames/surname/klm
+klč
+knz	1 name https://www.radixindex.com/en/surnames/surname/knz
+krb
+krb	7 name https://www.radixindex.com/en/surnames/surname/krb
+krc	39 name https://www.radixindex.com/en/surnames/surname/krc
+krch
+krch	26 name https://www.radixindex.com/en/surnames/surname/krch
+krchs	1 name https://www.radixindex.com/en/surnames/surname/krchs
+krcs	20 name https://www.radixindex.com/en/surnames/surname/krcs
+krcz	3 name https://www.radixindex.com/en/surnames/surname/krcz
+krcž	2 name https://www.radixindex.com/en/surnames/surname/krcž
+krd	1 name https://www.radixindex.com/en/surnames/surname/krd
+krk	1 name https://www.radixindex.com/en/surnames/surname/krk
+krl	1 name https://www.radixindex.com/en/surnames/surname/krl
+krn	1 name https://www.radixindex.com/en/surnames/surname/krn
+krnh	1 name https://www.radixindex.com/en/surnames/surname/krnh
+krpcz	1 name https://www.radixindex.com/en/surnames/surname/krpcz
+krs
+krs	11 name https://www.radixindex.com/en/surnames/surname/krs
+krt
+krt	6 name https://www.radixindex.com/en/surnames/surname/krt
+krtch	1 name https://www.radixindex.com/en/surnames/surname/krtch
+krtrc	1 name https://www.radixindex.com/en/surnames/surname/krtrc
+krts	1 name https://www.radixindex.com/en/surnames/surname/krts
+krtsch	3 name https://www.radixindex.com/en/surnames/surname/krtsch
+krz	2 name https://www.radixindex.com/en/surnames/surname/krz
+krzlj	2 name https://www.radixindex.com/en/surnames/surname/krzlj
+krč
+krš
+krčz	1 name https://www.radixindex.com/en/surnames/surname/krčz
+ksj	1 name https://www.radixindex.com/en/surnames/surname/ksj
+kwtsch	1 name https://www.radixindex.com/en/surnames/surname/kwtsch
+kĺč
+kľč
+m	14 poeple in Belgium with the male name "M"
+m.	1 name https://www.radixindex.com/en/surnames/surname/m.
+mbl	1 name https://www.radixindex.com/en/surnames/surname/mbl
+md
+md	111 people in Belgium with the male name "Md"A, 280 in DE
+md.
+mhd
+mjk	4 name https://www.radixindex.com/en/surnames/surname/mjk
+mlch
+mls
+mls	6 name https://www.radixindex.com/en/surnames/surname/mls
+mm
+mrnk	1 name https://www.radixindex.com/en/surnames/surname/mrnk
+ng
+ng
+ng	120 People in Flanders region of Belgium, Chinese surname
+pcrb	1 name https://www.radixindex.com/en/surnames/surname/pcrb
+plch
+plch	38 name https://www.radixindex.com/en/surnames/surname/plch
+plh
+pls	5 name https://www.radixindex.com/en/surnames/surname/pls
+plss	10 name https://www.radixindex.com/en/surnames/surname/plss
+plšk
+prc	1 name https://www.radixindex.com/en/surnames/surname/prc
+prchsl	1 name https://www.radixindex.com/en/surnames/surname/prchsl
+prcs	3 name https://www.radixindex.com/en/surnames/surname/prcs
+prjbjk	1 name https://www.radixindex.com/en/surnames/surname/prjbjk
+prlj	2 name https://www.radixindex.com/en/surnames/surname/prlj
+prntl	1 name https://www.radixindex.com/en/surnames/surname/prntl
+prs	70 names http://www.name-statistics.org/de/numef.php?numedefamilie=prs
+prč
+rng	1 name https://www.radixindex.com/en/surnames/surname/rng
+schmrsch	1 name https://www.radixindex.com/en/surnames/surname/schmrsch
+schwb	1 name https://www.radixindex.com/en/surnames/surname/schwb
+schwrz	1 name https://www.radixindex.com/en/surnames/surname/schwrz
+skrk	4 name https://www.radixindex.com/en/surnames/surname/skrk
+skrl	4 name https://www.radixindex.com/en/surnames/surname/skrl
+skrlj	11 name https://www.radixindex.com/en/surnames/surname/skrlj
+skrt	18 name https://www.radixindex.com/en/surnames/surname/skrt
+slc	1 name https://www.radixindex.com/en/surnames/surname/slc
+smrc
+smrs	5 name https://www.radixindex.com/en/surnames/surname/smrs
+smrsch	2 name https://www.radixindex.com/en/surnames/surname/smrsch
+smrt
+smrt	14 name https://www.radixindex.com/en/surnames/surname/smrt
+smrz
+smrz	76 name https://www.radixindex.com/en/surnames/surname/smrz
+snp
+sprtt	1 name https://www.radixindex.com/en/surnames/surname/sprtt
+srb
+srb	113 name https://www.radixindex.com/en/surnames/surname/srb
+srch
+srch	3 name https://www.radixindex.com/en/surnames/surname/srch
+srp
+srp	54 name https://www.radixindex.com/en/surnames/surname/srp
+srt	1 name https://www.radixindex.com/en/surnames/surname/srt
+stg	203 names http://www.name-statistics.org/de/numef.php?numedefamilie=stg
+strb	3 name https://www.radixindex.com/en/surnames/surname/strb
+strjc	2 name https://www.radixindex.com/en/surnames/surname/strjc
+strjz	1 name https://www.radixindex.com/en/surnames/surname/strjz
+strk	25 name https://www.radixindex.com/en/surnames/surname/strk
+szkrcs	4 name https://www.radixindex.com/en/surnames/surname/szkrcs
+szp	1 name https://www.radixindex.com/en/surnames/surname/szp
+szrb	5 name https://www.radixindex.com/en/surnames/surname/szrb
+szsz	1 name https://www.radixindex.com/en/surnames/surname/szsz
+szẏkẏ	1 name https://www.radixindex.com/en/surnames/surname/szẏkẏ
+trc	6 name https://www.radixindex.com/en/surnames/surname/trc
+trch
+trch	4 name https://www.radixindex.com/en/surnames/surname/trch
+trk	2 name https://www.radixindex.com/en/surnames/surname/trk
+trlj	1 name https://www.radixindex.com/en/surnames/surname/trlj
+trms
+trn
+trp	2 name https://www.radixindex.com/en/surnames/surname/trp
+trs
+trs	16 name https://www.radixindex.com/en/surnames/surname/trs
+trst	1 name https://www.radixindex.com/en/surnames/surname/trst
+trvz	1 name https://www.radixindex.com/en/surnames/surname/trvz
+trz	2 name https://www.radixindex.com/en/surnames/surname/trz
+trč
+trš
+tth	1 name https://www.radixindex.com/en/surnames/surname/tth
+tvrz	22 name https://www.radixindex.com/en/surnames/surname/tvrz
+vlc
+vlc	4 name https://www.radixindex.com/en/surnames/surname/vlc
+vlch	1 name https://www.radixindex.com/en/surnames/surname/vlch
+vlk
+vlk
+vlk	348 name https://www.radixindex.com/en/surnames/surname/vlk
+vlt	2 name https://www.radixindex.com/en/surnames/surname/vlt
+vlč
+vrch	2 name https://www.radixindex.com/en/surnames/surname/vrch
+vrd	1 name https://www.radixindex.com/en/surnames/surname/vrd
+vrh	9 name https://www.radixindex.com/en/surnames/surname/vrh
+vrkkr	1 name https://www.radixindex.com/en/surnames/surname/vrkkr
+vrs	1 name https://www.radixindex.com/en/surnames/surname/vrs
+vľk
+wlk	31 name https://www.radixindex.com/en/surnames/surname/wlk
+wnck	1 name https://www.radixindex.com/en/surnames/surname/wnck
+wrc	1 name https://www.radixindex.com/en/surnames/surname/wrc
+wˇs
+xg	1 name https://www.radixindex.com/en/surnames/surname/xg
+zdk	1 name https://www.radixindex.com/en/surnames/surname/zdk
+zlg	1 name https://www.radixindex.com/en/surnames/surname/zlg
+znjz	1 name https://www.radixindex.com/en/surnames/surname/znjz
+zrnc	5 name https://www.radixindex.com/en/surnames/surname/zrnc
+šprc
+štrk
+štrk	3 name https://www.radixindex.com/en/surnames/surname/štrk
+
+
+brchl
+brd
+brkl
+brt
+bǩ
+chrt
+chrz
+chrzšzcz
+chtr
+crk
+cvrk
+drg
+drn
+drs
+drǧ
+frk
+frǩ
+hrb
+hrk
+khdr
+klč
+krb
+krch
+krs
+krt
+krč
+krš
+kĺč
+kľč
+mhd
+mlch
+mls
+ng
+plch
+plh
+plšk
+prč
+smrc
+smrt
+srb
+srch
+srp
+trch
+trms
+trn
+trs
+trč
+trš
+vlk
+vlč
+vľk
+wˇs
+šprc
+štrk

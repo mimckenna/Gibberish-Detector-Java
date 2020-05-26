@@ -45,12 +45,13 @@ To Do:
 
 Source authors to search for and possibly contact:
 
-​	ct@ct.heise.de
-​	astro.joerg@googlemail.com
+* @ct.heise.de
+* joerg@googlemail.com
 
 TODO: 
 
 * [ ] https://hackage.haskell.org/package/gender-0.1.1.0/src/data/nam_dict.txt.UTF8
+* [ ] https://github.com/cstuder/genderReader - Same as above - european names with frequency statistics
 * [ ] http://www.surnamedb.com/Surname - scrape surnames
 
 ### LT - Lithuanian
@@ -93,7 +94,11 @@ Scrape from com_001.htm to com_162.htm
 * https://statbel.fgov.be/en/themes/population/family-names#figures - BE Family names
 
 ### DE - German
-https://www.hugenotten.de/genealogie/tabelle-namensliste.php
+* https://en.wikipedia.org/wiki/German_name - about German names
+* [x] https://www.hugenotten.de/genealogie/tabelle-namensliste.php
+* [x] https://github.com/cstuder/genderReader
+* [ ] http://www.name-statistics.org/de/numedefamiliecomune.php - need to scrape name database
+* [x] http://www.statistik.at/web_de/statistiken/menschen_und_gesellschaft/bevoelkerung/geborene/vornamen/index.html 
 
 ### VI - Vietnamese
 https://github.com/duyetdev/vietnamese-namedb-crawler
@@ -143,6 +148,8 @@ curl https://www.hiringfelons.com/hire-a-felon/florida/search.php?page=10 | sed 
 	done
 ```
 
+* https://www.radixindex.com/en/surnames - RadixIndex : Hungarian and Central European genealogy and local history databases (surnames)
+
 ### FI - Finnish
 * http://www.tuomas.salste.net/suku/nimi/index.html - "Tietoja suomalaisten sukunimistä" "Family names in Finland"
 * https://verkkopalvelu.vrk.fi/nimipalvelu/ - Nimipalvelu "Names service for Population Information System of Finland"
@@ -161,3 +168,29 @@ curl https://www.hiringfelons.com/hire-a-felon/florida/search.php?page=10 | sed 
 * https://africa-facts.org/african-last-names/
 * http://www.americanlastnames.us/last-names/Nigerian/O/O-0.html
 * http://www.americanlastnames.us/last-names/Nigerian/A/A-0.html
+
+### CZ - Czech
+* https://www.kdejsme.cz/ - frequency of surnames or names in the Czech Republic
+* https://www.prijmeni.cz - Czech names
+  * Male names: https://krestnijmeno.prijmeni.cz/nejoblibenejsi_muzska_jmena/2016&page=001 page 01 to 22
+  * Female names: https://krestnijmeno.prijmeni.cz/nejoblibenejsi_zenska_jmena/2016&page=01 page 01 to 27
+  * Surnames: hhttps://www.prijmeni.cz/nejcastejsi_prijmeni_novorozencu/2016&page=1 - can scrape from page 001 to 949 and search for `<a href="https://www.prijmeni.cz/[^"]*">\([^<]*\)</a>` and grab the $1 group from each `<td>` row.ttps://www.prijmeni.cz/nejcastejsi_prijmeni_novorozencu/2016
+* https://www.nasejmena.cz/nj/cetnost.php - possible scraping of 100 most common surname and given name by ~50 alphabet values.  
+  * Can scrape alphabetic lists `https://www.nasejmena.cz/nj/cetnost.php?id=1&typ=ab`, where `id` is 1 to 54, looking for `<TD[^']*'prijmeni')">\([^<]*\)<TD` for surname, and `'jmeno')"[^>]*>\([^<]*\)<TD` for givenName and grab the $1 group for each name. Can possibly scrape category lists too
+
+## Tools
+
+### iconv - convert from encodings to UTF-8
+
+### recode - HTML to UTF-8
+* http://www.chiark.greenend.org.uk/doc/recode-doc/index.html 
+* https://github.com/rrthomas/recode/ 
+* https://github.com/pinard/Recode
+* https://stackoverflow.com/questions/5929492/bash-script-to-convert-from-html-entities-to-characters
+* Download from here: https://packages.debian.org/en/sid/recode
+
+Alternatively, use perl
+```
+perl -Mopen=locale -pe 's/&#x([\da-f]+);/chr hex $1/gie'
+```
+

@@ -164,11 +164,11 @@ curl https://www.hiringfelons.com/hire-a-felon/florida/search.php?page=10 | sed 
 * http://www.ra.ee/aadresslehed/index.php/sheet/search?lastname=%2A&q=1 (TO DO - 452k records) to http://www.ra.ee/aadresslehed/index.php/sheet/search?lastname=%2A&q=1&page=22626
 
 ### NG - Nigerian
-* https://en.wikipedia.org/wiki/Ego_Nwodim
-* http://www.top-names.info/names.php?S=F&P=NIG
-* https://africa-facts.org/african-last-names/
-* http://www.americanlastnames.us/last-names/Nigerian/O/O-0.html
-* http://www.americanlastnames.us/last-names/Nigerian/A/A-0.html
+* [ ] https://en.wikipedia.org/wiki/Ego_Nwodim
+* [ ] http://www.top-names.info/names.php?S=F&P=NIG
+* [ ] https://africa-facts.org/african-last-names/
+* [ ] http://www.americanlastnames.us/last-names/Nigerian/O/O-0.html
+* [ ] http://www.americanlastnames.us/last-names/Nigerian/A/A-0.html
 
 ### CZ - Czech
 * https://www.kdejsme.cz/ - frequency of surnames or names in the Czech Republic
@@ -207,3 +207,41 @@ Alternatively, use perl
 perl -Mopen=locale -pe 's/&#x([\da-f]+);/chr hex $1/gie'
 ```
 
+=======
+### IE - Irish
+* https://pdf.cso.ie/www/pdf/20180227105506_Irish_Babies_Names_2013_full.pdf
+* https://www.behindthename.com/names/usage/irish/3
+* https://www.celticthunder.com/blog/2017/01/13/irish-surnames-meanings/
+* https://surnames.behindthename.com/names/usage/irish
+* http://www.americanlastnames.us/last-names/Irish/K/K-11.html
+
+### HR - Croatian
+* https://www.dzs.hr/default_e.htm
+* http://www.behindthename.com/names/usage/croatian/2
+* http://www.20000-names.com/male_croatian_names.htm
+* https://en.wikipedia.org/wiki/Croatian_name#Croatian_given_names
+* https://actacroatica.com/en/diaspora/world/
+* https://www.dzs.hr/Eng/censuses/census2011/results/htm/e01_01_31/E01_01_31.html
+* http://www.americanlastnames.us/last-names/Croatian/A/A-0.html
+
+### RO - Romanian
+* http://www.americanlastnames.us/last-names/Romanian/A/A-0.html
+* http://www.20000-names.com/female_romanian_names.htm
+* http://www.20000-names.com/male_romanian_names.htm
+* http://www.behindthename.com/top/lists/romania/2009
+* https://en.wikipedia.org/wiki/Romanian_name
+* http://www.metalhead.ro/articole/cele-mai-ciudate-nume-la-romani-aid45874
+
+### SE - Swedish
+* http://www.statistikdatabasen.scb.se/pxweb/en/ssd/START__BE__BE0001__BE0001G/BE0001ENamn10/?rxid=08cea6fc-f998-447b-961e-6dab06aa1826
+* http://www.statistikdatabasen.scb.se/pxweb/en/ssd/START__BE__BE0001__BE0001G/BE0001FNamn10/?rxid=08cea6fc-f998-447b-961e-6dab06aa1826
+
+### IT - Italian
+* https://www.paginebianche.it/A.htm
+* https://www.repubblica.it/robinson/2019/05/07/news/appello_per_la_storia_le_firme_dei_lettori_3-225642633/?ref=drac-2
+* https://www.istat.it/it/dati-analisi-e-prodotti/contenuti-interattivi/contanomi
+* https://www.istat.it/it/files//2015/11/Natalità_fecondita_2014.pdf
+* https://it.wikipedia.org/wiki/Prenomi_italiani_(A-L)
+* https://it.wikipedia.org/wiki/Prenomi_italiani_(M-Z)
+* http://www.gooo.it/nomimas.html
+* http://www.gooo.it/nomifem.html

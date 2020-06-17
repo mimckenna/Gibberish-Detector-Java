@@ -68,7 +68,7 @@ https://www.data.gouv.fr/fr/datasets/liste-de-prenoms/ - French government List 
 
 Names
 
-* http://www.geopatronyme.com/insee.htm - French patronymic names. Scrape using
+* [x] http://www.geopatronyme.com/insee.htm - French patronymic names. Scrape using
 
 ```
 > curl "http://www.geopatronyme.com/cgi-bin/carte/hitnom.cgi?periode=5&suite=<page>"
@@ -99,6 +99,7 @@ Scrape from com_001.htm to com_162.htm
 * [x] https://github.com/cstuder/genderReader
 * [ ] http://www.name-statistics.org/de/numedefamiliecomune.php - need to scrape name database
 * [x] http://www.statistik.at/web_de/statistiken/menschen_und_gesellschaft/bevoelkerung/geborene/vornamen/index.html 
+* [ ] http://www.namenforschung.net/dfd/woerterbuch/liste/ - Digitale Familiennamenwörterbuch Deutschlands, project with Akademie der Wissenschaften und der Literatur, Mainz. 37564 German surnames
 
 ### VI - Vietnamese
 https://github.com/duyetdev/vietnamese-namedb-crawler
@@ -174,9 +175,21 @@ curl https://www.hiringfelons.com/hire-a-felon/florida/search.php?page=10 | sed 
 * https://www.prijmeni.cz - Czech names
   * Male names: https://krestnijmeno.prijmeni.cz/nejoblibenejsi_muzska_jmena/2016&page=001 page 01 to 22
   * Female names: https://krestnijmeno.prijmeni.cz/nejoblibenejsi_zenska_jmena/2016&page=01 page 01 to 27
-  * Surnames: hhttps://www.prijmeni.cz/nejcastejsi_prijmeni_novorozencu/2016&page=1 - can scrape from page 001 to 949 and search for `<a href="https://www.prijmeni.cz/[^"]*">\([^<]*\)</a>` and grab the $1 group from each `<td>` row.ttps://www.prijmeni.cz/nejcastejsi_prijmeni_novorozencu/2016
+  * Surnames: https://www.prijmeni.cz/nejcastejsi_prijmeni_novorozencu/2016&page=1 - can scrape from page 001 to 949 and search for `<a href="https://www.prijmeni.cz/[^"]*">\([^<]*\)</a>` and grab the $1 group from each `<td>` row.ttps://www.prijmeni.cz/nejcastejsi_prijmeni_novorozencu/2016
 * https://www.nasejmena.cz/nj/cetnost.php - possible scraping of 100 most common surname and given name by ~50 alphabet values.  
   * Can scrape alphabetic lists `https://www.nasejmena.cz/nj/cetnost.php?id=1&typ=ab`, where `id` is 1 to 54, looking for `<TD[^']*'prijmeni')">\([^<]*\)<TD` for surname, and `'jmeno')"[^>]*>\([^<]*\)<TD` for givenName and grab the $1 group for each name. Can possibly scrape category lists too
+
+### PL - Poland / Polish
+
+* Polish government statistics
+  * https://dane.gov.pl/dataset?page=1&per_page=50&q=imi%C4%99&sort=relevance
+  * Names appearing in the PESEL register, including names of deceased persons
+    * https://dane.gov.pl/dataset/568,nazwiska-wystepujace-w-rejestrze-pesel
+* Men's surnames - as of January 22, 2020 
+     * https://dane.gov.pl/dataset/568,nazwiska-wystepujace-w-rejestrze-pesel/resource/22811,nazwiska-meskie-stan-na-2020-01-22/table?page=1&per_page=20&q=&sort= 
+* Frequency of names 1950-2016
+  * Name density in 1950-2016
+    * https://dane.gov.pl/dataset/24/resource/140,gestosc-imion-w-latach-19502016/table?page=1&per_page=20&q=&sort= 
 
 ## Tools
 

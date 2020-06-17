@@ -1,7 +1,7 @@
 #!/bin/sh
 # find occurances of all punctuation and repeating caracters
 #
-# patterns (allpunctrepeating badwords business keyboard singlechar)
+# patterns (repeating badwords business keyboard singlechar)
 # name_sets (cust bo)
 
 DIR=`dirname "$0"`
@@ -24,14 +24,13 @@ for name_set in "$@" ; do
 
 done
 
-# egrep -i -E -f pat_keyboard.grep test_bo_names.txt > bad_bo_names_keyboard.txt
-# egrep -i -E -f pat_allpunctrepeating.grep test_bo_names.txt > bad_bo_names_allpunctrepeating.txt
-# egrep -i -E -f pat_allpunctrepeating.grep test_cust_names.txt > bad_cust_names_allpunctrepeating.txt
 # egrep -i -E -f pat_badwords.grep test_bo_names.txt > bad_bo_names_badwords.txt
 # egrep -i -E -f pat_badwords.grep test_cust_names.txt > bad_cust_names_badwords.txt
 # egrep -i -E -f pat_business.grep test_bo_names.txt > bad_bo_names_business.txt
 # egrep -i -E -f pat_business.grep test_cust_names.txt > bad_cust_names_business.txt
 # egrep -i -E -f pat_keyboard.grep test_bo_names.txt > bad_bo_names_keyboard.txt
 # egrep -i -E -f pat_keyboard.grep test_cust_names.txt > bad_cust_names_keyboard.txt
+# egrep -i -E -f pat_repeating.grep test_bo_names.txt > bad_bo_names_repeating.txt
+# egrep -i -E -f pat_repeating.grep test_cust_names.txt > bad_cust_names_repeating.txt
 # egrep -i -E -f pat_singlechar.grep test_bo_names.txt > bad_bo_names_singlechar.txt
 # egrep -i -E -f pat_singlechar.grep test_cust_names.txt > bad_cust_names_singlechar.txt

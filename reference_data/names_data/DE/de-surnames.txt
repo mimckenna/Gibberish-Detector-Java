@@ -3448,7 +3448,6 @@ bechthold
 bechtold
 bechtolsheim
 beck
-beck bec
 beck-benner
 beck-jammert
 beckar
@@ -4065,7 +4064,7 @@ bergeraud
 bergere
 bergeret
 bergerie
-bergerin bieler
+bergerin
 bergeron
 bergers
 berges
@@ -4251,6 +4250,7 @@ berneau
 berneaud
 bernech
 bernecker
+bernefingue
 bernefinguer
 bernege
 bernegger
@@ -4267,7 +4267,6 @@ bernette
 berneze
 bernfinger
 bernfänger
-bernfänger bernefingue
 bernhagen
 bernhard
 bernhardi
@@ -4614,9 +4613,8 @@ bethtie
 bethutie
 bethzholdt
 betilley
-betilley bately
 betillon
-betilly bately
+betilly
 betin
 betmann
 betmarken
@@ -4710,7 +4708,6 @@ beuth
 beutin
 beutler
 beutner
-beutner beitner
 beuvart
 beuve
 beuviere
@@ -4762,13 +4759,13 @@ beyroth
 beyselance
 beysigel
 bez
+beza
 bezaguth
 bezange
 bezard
 bezard de la maindrie
 bezart
 beze
-beze beza betz
 bezel
 bezelle
 bezencenet
@@ -5025,7 +5022,6 @@ binand
 binant
 binard
 binau
-binau binou
 binaud
 bindeman
 bindemann
@@ -5073,16 +5069,14 @@ binoist
 binoit
 binol
 binot
+binou
 binoy
 binoÿ
 bino˜
 binsdorff
-binsdorff bintzdorff
 binsheim
 binski
-binstorff bintzdorff
-binstorff bintzdorff pinsdorff
-binstorff bintztorff
+binstorff
 bintner
 bintsrouff
 bintz
@@ -5090,6 +5084,7 @@ bintzdorff
 bintze
 bintzer
 bintzinger
+bintztorff
 binvist
 binxdorff
 binz
@@ -5237,12 +5232,11 @@ blachier
 blachiere
 blachieres
 blachire
+blachires
 blachière
 blachié
 blachon
 blachre
-blachre blachire
-blachre blachires
 blachère
 blaché
 blaché de belcrose
@@ -5271,7 +5265,6 @@ blajon
 blam
 blambois
 blamboy
-blamboy blambois
 blan
 blanbeau
 blanbec
@@ -5475,7 +5468,6 @@ blignaut
 bligneau
 blignie
 blin
-blin blain
 blincken
 blinn
 blinskin
@@ -5619,7 +5611,6 @@ bochow
 boché
 bocian
 bock
-bock buck
 bock – müller
 bock – otton
 bock-müller
@@ -5737,7 +5728,6 @@ boemke
 boencken
 boentzell
 boer
-boer bulcher
 boeres
 boerner
 boers
@@ -6044,7 +6034,7 @@ bonartel
 bonas
 bonatz
 bonaude
-bonaventura bertrand
+bonaventura
 bonaventure
 bonbardié
 bonbled
@@ -6560,8 +6550,6 @@ botschild
 botson
 botsum
 bott
-bott boutt
-bott pott
 bott-breitwieser
 botta
 bottan
@@ -6626,7 +6614,6 @@ bouchayrin
 bouche
 boucheau
 boucher
-boucher bouchet
 bouchere
 boucherie
 boucheré
@@ -6927,7 +6914,6 @@ bouquié
 bouquoy
 bouqué
 bour
-bour baur bauer
 bourache
 bouradrié
 bourba
@@ -7044,9 +7030,6 @@ bourgue
 bourguemaoetre
 bourguemaître
 bourguer
-bourguer bourcker
-bourguer bourger burger
-bourguer burger
 bourguerau
 bourguers
 bourgues
@@ -7151,7 +7134,6 @@ boursy
 bourt
 bourvignon
 boury
-boury bouri
 bourzet
 bourçot
 bouré
@@ -7225,7 +7207,6 @@ boustot
 bout
 boutainé
 boutan
-boutan boutant
 boutanesquet
 boutans
 boutant
@@ -7264,6 +7245,7 @@ boutou
 boutoux
 boutouze
 boutroy
+boutt
 bouttillie
 bouttin
 boutton
@@ -7573,7 +7555,6 @@ braule
 braum
 braumann
 braun
-braun broune
 braun senior
 braune
 brauneck
@@ -7619,7 +7600,7 @@ brayé
 braze
 brazi
 brazy
-brch 
+brch
 bre
 brebant
 brebay
@@ -7782,7 +7763,6 @@ brery
 bres
 bresanges
 bresch
-bresch breich
 bresil
 breslau
 breslauer
@@ -7816,7 +7796,6 @@ bretheuil
 bretin
 breton
 bretsch
-bretsch britsch
 bretschneider
 brettauer
 brette
@@ -8234,7 +8213,6 @@ broun le jeune
 brounar
 brounckin
 brounckner
-brounckner brunckner
 broune
 brouner
 brounn
@@ -8281,7 +8259,6 @@ bruan
 bruau
 brucau
 bruch
-bruch brouch
 bruchaus
 bruchet
 bruchhaus
@@ -8346,7 +8323,6 @@ bruiez
 bruin
 bruins
 bruire
-bruire bruére
 bruis de serrieres
 bruit
 bruière
@@ -8402,7 +8378,6 @@ brunn
 brunne
 brunnelle
 brunner
-brunner brouner
 brunnert
 bruno
 brunon
@@ -8468,7 +8443,6 @@ bruyez
 bruyière
 bruyns
 bruyre
-bruyre brure
 bruyère
 bruyère – poncet
 bruyère-poncet
@@ -8597,11 +8571,6 @@ buchtaschen
 buchwitz
 bucius
 buck
-buck beck
-buck bouck
-buck bouck bug
-buck boug
-buck bueck
 bucke
 buckel
 buckenthal
@@ -8718,6 +8687,7 @@ bulau
 bulb
 bulbach
 bulbeck
+bulcher
 bulgardt
 bulger
 bull
@@ -8806,7 +8776,6 @@ burck
 burckard
 burckardin
 burckardt
-burckardt bourcard
 burcke
 burcker
 burckhard
@@ -8830,7 +8799,6 @@ burgeat
 burgemeistre
 burgen
 burger
-burger bourguer
 burgerin
 burgermeister
 burgern
@@ -8922,7 +8890,6 @@ busan
 busar
 buscard
 busch
-busch bousch
 buschance
 buschberger
 buscheit
@@ -9156,7 +9123,6 @@ béringuier de corneilles
 béringuier de cornelis
 béringuier de malbos
 bérion
-bérion brion
 béro
 béru
 béry
@@ -9902,7 +9868,7 @@ carnokowsky
 carnou
 carnoulac
 carnoules
-carnoules carnouls
+carnouls
 carnoy
 carné
 caro
@@ -10409,7 +10375,6 @@ ceusse
 ceymat
 cezan
 cezanne
-cezanne cesane
 cezar
 cezari
 chaalon
@@ -10418,7 +10383,6 @@ chabal
 chabalet
 chabanas
 chabanaz
-chabanaz cabanes
 chabane de venours
 chabanel
 chabanon
@@ -10678,7 +10642,7 @@ chanchie
 chandelier
 chandellier
 chander
-chanderchander, chandre, chantre
+chanderchander
 chandernel
 chandion
 chandon
@@ -11023,7 +10987,6 @@ chaton
 chatonnay
 chatory
 chatoury
-chatoury cathory
 chatrier
 chatron
 chattanay
@@ -11167,7 +11130,6 @@ chayer
 chayes
 chaynot
 chayot
-chayot chareau
 chazal
 chazas
 chazau
@@ -11231,7 +11193,6 @@ chellin
 chelnic
 chelos
 chelosse
-chelosse celos
 chelottâquer
 chelque
 chely
@@ -12447,7 +12408,6 @@ combesse
 combet
 combette
 combier
-combier comby
 combiet
 combin
 combine
@@ -12617,7 +12577,6 @@ contandin
 contant
 contante
 conte
-conte comte
 conte grand
 conteau
 contenaux
@@ -12849,7 +12808,7 @@ corniliac
 cornillac
 cornillat
 cornille
-corniller cornier
+corniller
 cornillon
 corniquet
 cornirius
@@ -13106,7 +13065,6 @@ coulange
 coularon
 coularou
 coulas
-coulas colas
 coulasse
 coulat
 coule
@@ -13258,7 +13216,6 @@ courriard
 courrias
 courrieau
 courrier
-courrier couvrier
 courriol
 courroisie
 courroisy
@@ -14112,6 +14069,7 @@ d'any
 d'apell
 d'appels
 d'apples
+d'araben
 d'aragouse
 d'aras
 d'aray
@@ -14437,6 +14395,7 @@ d'oeynhausen
 d'ogny
 d'oheim
 d'olbas
+d'olbreuse
 d'oldenburg
 d'olier
 d'oligni
@@ -14537,7 +14496,6 @@ dac
 dacgue
 dacguet
 dach
-dach dachnin
 dachemont
 dachmann
 dachnin
@@ -14868,7 +14826,7 @@ daragoux
 darais
 darassus
 daratz
-darben d'araben
+darben
 darbissan
 darbres
 darbus
@@ -15124,7 +15082,6 @@ dayrolle
 dazay
 ddaganet
 de
-de 
 de adelebsen
 de adeler
 de aguen
@@ -16057,7 +16014,7 @@ de chièvre
 de chièvres
 de choisel
 de chonnau
-de choudans 
+de choudans
 de choudans de gremas
 de choudant de badian
 de choudens
@@ -17596,7 +17553,6 @@ de la tombe
 de la touche la valett
 de la touche la valette
 de la tour
-de la tour 
 de la tour de reinier
 de la tour et taxis
 de la tout
@@ -17849,6 +17805,7 @@ de le perdoy
 de le pierre
 de le plance
 de le plancq
+de le rieux
 de le saie
 de le sau
 de le sauls
@@ -18078,7 +18035,7 @@ de lüdder
 de lyder
 de lyeri
 de lynden
-de lynden de 
+de lynden de
 de lynden de hoevelacke
 de lypyen
 de lyrien
@@ -19251,7 +19208,6 @@ de saillens
 de sainct jan
 de sainctyves
 de saint
-de saint 
 de saint amour
 de saint auban
 de saint aubin
@@ -19369,7 +19325,7 @@ de scharden
 de schardins
 de schaumbourg
 de schaumbourg-lippe
-de schaumbourglippe, sternberg
+de schaumbourglippe
 de schaumburg
 de schaumburg-lippe
 de schavagnac
@@ -20641,7 +20597,6 @@ delfontaine
 delforge
 delforteri
 delforterie
-delforterie delfortire
 delfortery
 delfortire
 delfortri
@@ -20766,11 +20721,6 @@ delpre
 delpuech
 delrieu
 delrieux
-delrieux delerieux
-delrieux dellerieux
-delrieux dellerieux de le rieux
-delrieux dellrieux
-delrieux délérieux
 delré
 delsale
 delsau
@@ -20967,7 +20917,6 @@ depersein
 depertin
 depesne
 depesse
-depesse debess debus
 depesse-lacombe
 depic de lile
 depierre
@@ -21113,7 +21062,7 @@ dervoigne
 dervuey
 deré
 derés
-des 
+des
 des agaa
 des aides
 des aites
@@ -21471,7 +21420,6 @@ desmeraeres
 desmerlier
 desmeth
 desmier
-desmier d'olbreuse
 desmilleville
 desmié
 desmon
@@ -21608,7 +21556,6 @@ dessombe
 dessombs
 desson
 dessort
-dessort désor
 dessorte
 dessot
 dessours
@@ -22204,7 +22151,6 @@ dittschies
 dittsurge
 dittzurgis
 ditz
-ditz dietz
 ditzun
 dive
 divene
@@ -22748,7 +22694,6 @@ dracor
 draeger
 draeher
 drag
-drag drach
 dragaud
 drager
 dragert
@@ -22953,7 +22898,7 @@ drößing
 drüillon
 drüke
 drÿu
-du 
+du
 du bacrau
 du baine
 du bally
@@ -23299,7 +23244,7 @@ du mos
 du motier
 du moulin
 du mous
-du moutier 
+du moutier
 du moutier de montgoubert
 du no
 du noud
@@ -23705,7 +23650,7 @@ ducraus
 ducray
 ducret
 ducros
-ducros de la 
+ducros de la
 ducrot
 ducroy
 ducré
@@ -24428,7 +24373,6 @@ eckert
 eckertin
 eckesch
 eckhard
-eckhard eckert
 eckhardt
 eckhart
 eckher
@@ -25407,7 +25351,6 @@ evard
 evat
 evatt
 evatte
-evatte evat
 eve
 even
 eveneual
@@ -27002,7 +26945,8 @@ folt
 foltz
 foly
 folz
-folzvoltz, volz
+folzvoltz
+folzvolz
 folé
 folÿe
 fon
@@ -28870,7 +28814,6 @@ gasset
 gassi bibiana
 gassner
 gast
-gast gaste
 gastau
 gaste
 gastek
@@ -29725,8 +29668,6 @@ geyb
 geybern
 geydan
 geyer
-geyer geiger
-geyer gueyer
 geyger
 geygi
 geymard
@@ -30223,7 +30164,8 @@ glocke
 gloda
 gloed
 gloede
-gloesmannklesmann, klaesmann
+gloesmannklaesmann
+gloesmannklesmann
 glomiratus
 glon
 glor
@@ -30905,8 +30847,6 @@ goutman
 goutourier
 goutrau
 goutschmidt
-goutschmidt gutschmidt
-goutschmidtgutschmidt
 gouttier
 goutturie
 gouvel
@@ -31729,7 +31669,7 @@ gruch
 gruchenings
 gruchon
 gruebner
-grueckmangreckmann,
+grueckmangreckmann
 gruel
 gruen
 grueneberg
@@ -32116,6 +32056,7 @@ guex
 guey
 gueydan
 gueyde
+gueyer
 gueyle
 gueylle
 gueymard
@@ -32376,7 +32317,6 @@ guiremand
 guirer
 guirlanche
 guirlange
-guirlange guirlanche
 guirman
 guirmand
 guirod
@@ -33303,7 +33243,6 @@ harmans
 harmar
 harmegnis
 harmens
-harmens harting
 harmer
 harms
 harmsen
@@ -36343,7 +36282,8 @@ jacken
 jacki
 jackmin
 jackomin
-jacksjachst, jost
+jacksjachst
+jacksjost
 jacksties
 jackstiess
 jacky
@@ -36893,7 +36833,6 @@ jeaune
 jeauny
 jecho
 jeckel
-jeckel j™ckel
 jederman
 jeese
 jeffke
@@ -37402,9 +37341,7 @@ jouvancel
 jouvanel
 jouvant
 jouvarin
-jouvarin jouve
 jouve
-jouve jouvarin
 jouvenal
 jouvenal besson
 jouvenalle
@@ -38673,8 +38610,9 @@ kleips
 kleis
 kleisch
 kleischart
+kleischleich
 kleisel
-kleisgleis, schleich
+kleisgleis
 kleist
 klemen
 klemke
@@ -41747,7 +41685,7 @@ lazinski
 lazzeri
 laïser
 lberr
-le 
+le
 le alleman
 le bachelet
 le bachelle
@@ -43181,7 +43119,6 @@ leusler
 leusner
 leutens
 leuther
-leuther 
 leutheuser
 leuthner
 leuthold
@@ -43501,7 +43438,8 @@ linderen
 linderis
 lindermann
 lindess
-lindhaeuserleithäuser, leitheuser
+lindhaeuserleitheuser
+lindhaeuserleithäuser
 lindheim
 lindheimer
 lindheimers
@@ -44536,7 +44474,6 @@ löpe
 löpern
 lörzer
 lösch
-lösch 
 lösch-lang
 lösch-michel
 löschbarth
@@ -45728,7 +45665,6 @@ marignac
 marignague
 marignargue
 marignargues
-marignargues mérignire
 marignolle
 marigné
 marihaure de la salle
@@ -48238,7 +48174,7 @@ monbailly
 monbait
 monbarlet
 monbel
-monberlay du 
+monberlay du
 monberlay du belay
 monberot
 monbonno
@@ -48554,7 +48490,6 @@ moreaux
 moree
 morein
 morel
-morel morelle
 morel viii
 morel-forack
 morelis
@@ -49171,6 +49106,7 @@ méngert
 ménier
 méquillet
 mérian
+mérignire
 mérillat
 mérinargues
 méry
@@ -50100,7 +50036,7 @@ norber
 nord
 norda
 nordheim
-nordingh de 
+nordingh de
 nordmeyer
 nordon
 nordt
@@ -51569,8 +51505,6 @@ passepin
 passera
 passeran
 passet
-passet basset
-passet passette
 passet tominet
 passet-chambon
 passette
@@ -52001,7 +51935,6 @@ pelinte
 pelisier
 pelissari
 pelissier
-pelissier pélicier
 pelissiere
 pelissié
 pelisson
@@ -52598,7 +52531,6 @@ petsh
 pettavel
 pettbier
 pettemann
-pettemann 
 pettenhäuser
 petter
 pettermann
@@ -52782,7 +52714,6 @@ phaty
 pheil
 pheline
 phelippe
-phelippe phelix
 phelix
 phelonika
 phelt
@@ -53220,6 +53151,7 @@ pinqués
 pinsard de la cour
 pinsch
 pinschmidt
+pinsdorff
 pinse
 pinseau
 pinson
@@ -53616,9 +53548,9 @@ plüschke
 plüss
 po
 poat
+pober
 pobouerski
 pobrine
-pobrine pober bober
 pochard
 pochard-fleming
 pochelon
@@ -54514,7 +54446,7 @@ primat
 primel
 primer
 primet
-primoult du 
+primoult du
 primoult du chesne
 primoult du chêne
 primoût du chève
@@ -54855,6 +54787,7 @@ péguilheu de lavergue
 pélat
 pélatane
 péler
+pélicier
 pélier
 pélissier
 pélissier du grèz
@@ -55328,9 +55261,6 @@ ramb
 rambardeau
 rambau
 rambaud
-rambaud rambeau
-rambaud rambott
-rambaud ramboy
 rambaut
 rambeau
 ramber
@@ -55341,8 +55271,10 @@ rambonet
 ramboni
 rambonnet
 ramboné
+rambott
 rambour
 rambour de jercy
+ramboy
 rambskopf
 rambuceau
 ramdié
@@ -56126,7 +56058,7 @@ remhof
 remi
 remie
 remier
-remihemi, rémy
+remihemi
 remilli
 remilly
 reminder
@@ -56180,7 +56112,6 @@ renau
 renaud
 renaud de colan
 renaud de provenie
-renaud reynaud
 renaudin
 renaudot
 renaudy
@@ -56385,7 +56316,6 @@ reul
 reulette
 reumann
 reumer
-reumer, roeumer
 reunberg
 reuner
 reuppert
@@ -57139,6 +57069,7 @@ roclan
 rocounnet
 rocq
 rocque
+rocquecampe
 rocques
 rocques de maumont
 rocquette
@@ -57211,6 +57142,8 @@ roeber
 roecke
 roedel
 roeder
+roederinerédre
+roederinrédre
 roedewaldt
 roediger
 roedin
@@ -57245,6 +57178,7 @@ roetger
 roethke
 roettiger
 roeuhrs
+roeumer
 roever
 roeyer
 rog
@@ -57267,8 +57201,6 @@ roggenbach
 roggenbruck
 roggencampe
 roggenkamp
-roggenkamp rocquecampe
-roggenkamp roggencampe
 rogier
 rogier de bellevil
 rogier de belleville
@@ -58385,12 +58317,13 @@ rébillard
 réclam
 récouli
 réderine
-réderinerédre, roederin, roeder
+réderinerédre
 rée
 régis
 réguess
 rémineyras
 rémy
+rémyhemi
 rénau
 rénier
 rénors
@@ -59414,7 +59347,6 @@ schaefer
 schaefer-altenbrand
 schaefer-staub
 schaeffer
-schaeffer schžfer
 schaeffer von bernstein
 schaeffer-reviol
 schaefferin
@@ -60225,8 +60157,6 @@ schmidin
 schmidman
 schmidt
 schmidt marechal
-schmidt schmid
-schmidt schmitt
 schmidt v. schwind
 schmidt von schwind
 schmidt-becker
@@ -61041,6 +60971,7 @@ schützen
 schützer
 schützler
 schüßler
+schžfer
 sci
 scibel
 scion
@@ -63952,7 +63883,8 @@ sÿberg de vörde
 tabari
 tabarin
 tabart
-tabertdeubert, deibert
+tabertdeibert
+tabertdeubert
 tabier
 tablin
 taboureux
@@ -66710,7 +66642,6 @@ vamberg
 vamberge
 vambre
 van
-van 
 van acken
 van aerssen
 van alfter
@@ -68439,7 +68370,8 @@ vole
 volebe
 volere
 voleth
-volewohl, wolle
+volewohl
+volewolle
 volfrat
 volfvert
 volgenau
@@ -68502,7 +68434,7 @@ vom dorp
 vom hamm
 vombill
 vomerat
-von 
+von
 von acken
 von adolf
 von aheco
@@ -69617,8 +69549,9 @@ wasserhuhn
 wasserlein
 wassermann
 wassermeyer
-wasserodtwasserot, wasserotd
+wasserodtwasserot
 wasserole
+wasserotdwasserot
 wasserschleben
 wasseur
 wassheim
@@ -71215,8 +71148,6 @@ zahner
 zahnerdt
 zahnos
 zaiger
-zaiger zeiger
-zaiger zeiger zeicher
 zaikass
 zaisely
 zalnus
@@ -71271,15 +71202,14 @@ zeger
 zegledi
 zeh
 zehmer
-zehmer zimmer
 zehnder
 zehrfass
 zeibig
+zeicher
 zeicherzaiger
 zeicken
 zeidel
 zeiger
-zeiger zeicher zaiger
 zeigler
 zeiher
 zeiler
@@ -71432,7 +71362,6 @@ zierast
 zieraten
 zierenberg
 ziergöbel
-zierg™bel
 zierl
 ziermann
 zierrath

@@ -245,3 +245,27 @@ perl -Mopen=locale -pe 's/&#x([\da-f]+);/chr hex $1/gie'
 * https://it.wikipedia.org/wiki/Prenomi_italiani_(M-Z)
 * http://www.gooo.it/nomimas.html
 * http://www.gooo.it/nomifem.html
+
+### CN-Latn - Chinese (romanized)
+* https://en.wikipedia.org/wiki/List_of_common_Chinese_surnames 
+* https://en.wikipedia.org/wiki/Hundred_Family_Surnames 
+* https://zh.wikipedia.org/wiki/%E7%99%BE%E5%AE%B6%E5%A7%93 百家姓
+
+### SG - Singapore
+* https://data.gov.sg/dataset/nlb-name-authorities 
+
+### TW-Hant - Chinese Traditional
+* https://www.ris.gov.tw/documents/data/5/2/107namestat.pdf Taiwan surnames analysis
+
+### ID - Indonesia
+* Indonesian Personal Names (wikipedia) https://id.wikipedia.org/wiki/Nama_pribadi
+* https://sp2010.bps.go.id/ 2010 Indonesian Census
+* Family names
+  * http://www.lib.unair.ac.id/download/pedoman.perpustakaan/DaftarNama.pdf 
+  * https://adoc.pub/queue/fam-gelar-adat-dan-gelar-kebangsawanan-di-indonesia.html
+* Given names
+  * https://en.wiktionary.org/wiki/Appendix:Indonesian_given_names
+  * https://en.wiktionary.org/wiki/Category:Indonesian_given_names
+  * https://danudanudanu48.wordpress.com/2016/09/24/marga-marga-di-indonesia/ Indonesian names
+  * 440 Unique Boy Names https://www.merdeka.com/jateng/440-nama-bayi-laki-laki-unik-beserta-artinya-keren-dan-penuh-makna-kln.html?page=2
+* Unique Indonesian names such as "Q", "AA", "N", "Google", 19 words long, etc. https://www.tribunnews.com/tag/nama-unik?url=regional/2019/12/25/nama-nama-unik-orang-indonesia-ada-slamet-hari-natal-happy-new-year-google-hingga-tuhan 

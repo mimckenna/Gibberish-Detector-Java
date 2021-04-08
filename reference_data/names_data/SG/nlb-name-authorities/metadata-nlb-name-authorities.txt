@@ -1,0 +1,284 @@
+# Metadata for NLB Name Authorities
+---
+Identifier: '678b726a-62fc-49cb-8f79-d7aff28dada4'
+Name: 'nlb-name-authorities'
+Title: 'NLB Name Authorities'
+Description:
+  - 'This is a list of standardised names established and maintained by National Library
+    Board to be used uniquely and consistently when identifying and naming entities
+    in resource description. Name authorities are created as a means of organising
+    information so as to facilitate discovery of information.'
+  - ''
+  - 'This service establishes authorised forms of mainly Singapore-related names of
+    People, Organisations, Buildings and Places to enable consistency of use in indexing
+    or tagging of information resources, and to improve their discoverability. The
+    names created are mainly names of Singapore personalities, organisations, buildings
+    and places. Names included are usually of significance to Singapore’s political,
+    economic, social, cultural or historical context.'
+  - ''
+  - 'Different forms or variations of names and previously-known names are also included.'
+Topics:
+  - 'Education'
+  - 'Society'
+Keywords:
+  - 'Buildings'
+  - 'Culture'
+  - 'Economics'
+  - 'History'
+  - 'Index'
+  - 'Metatag'
+  - 'NLB'
+  - 'Names'
+  - 'Organisations'
+  - 'People'
+  - 'Places'
+  - 'Politics'
+  - 'Tag'
+Publisher:
+  Name: 'National Library Board'
+  Admin 1:
+    Name: 'Chow Yaw Huah'
+    Department: 'Resource Discovery'
+    Email: 'Chow_Yaw_Huah@nlb.gov.sg'
+  Admin 2:
+    Name: 'Glenn Hong'
+    Department: 'Resource Discovery'
+    Email: 'Glenn_Hong@nlb.gov.sg'
+Sources:
+  - 'National Library Board'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Ad-hoc'
+Coverage: '2019-02-15 to 2020-05-27'
+Last Updated: '2020-05-27T09:03:13.278179'
+Resources:
+  -
+    Identifier: 'd25b1495-e9c2-4aee-8c13-41930b8906e9'
+    Title: 'NLB Name Authorities Attributes'
+    Url: 'https://storage.data.gov.sg/nlb-name-authorities/resources/nlb-name-authorities-attributes-2020-05-27T08-14-27Z.csv'
+    Format: 'CSV'
+    Coverage: '2019-02-15 to 2020-05-27'
+    Description: 'Contains name authorities with their attributes.'
+    Last Updated: '2020-05-27T08:14:27.194067'
+    Schema:
+      -
+        Name: 'uid'
+        Title: 'UID'
+        Type: 'text'
+        Sub Type: 'general'
+        Description: 'Unique identifier of the entity.'
+      -
+        Name: 'descriptor'
+        Title: 'Descriptor'
+        Type: 'text'
+        Sub Type: 'general'
+        Description: 'Standardised preferred name of the entity for indexing purposes.
+          It may be established differently from its original form.'
+      -
+        Name: 'vocabulary'
+        Title: 'Vocabulary'
+        Type: 'text'
+        Sub Type: 'general'
+        Description:
+          - 'Category of the entity.'
+          - ''
+          - 'GeoBuildings: Buildings and structures in Singapore that are historically
+            or culturally significant.'
+          - ''
+          - 'Geographics: Names of streets and places in Singapore that includes locations
+            and significant landmarks such as historic sites as well as streets, roads,
+            islands, rivers, canals, hills and parks.'
+          - ''
+          - 'Organisations: Names of Singapore-related organisations.'
+          - ''
+          - 'People: Names of mainly Singapore-related people.'
+      -
+        Name: 'description'
+        Title: 'Description'
+        Type: 'text'
+        Sub Type: 'general'
+        Description: 'Description of the entity.'
+      -
+        Name: 'name_displayname'
+        Title: 'Name (DisplayName)'
+        Type: 'text'
+        Sub Type: 'general'
+        Description:
+          - 'Name of the person as displayed in original form.'
+          - '"na" : Data unknown or not available.'
+      -
+        Name: 'lat'
+        Title: 'Latitude'
+        Type: 'geo_coordinate'
+        Sub Type: 'latitude'
+        Coordinate System: 'EPSG:4326'
+        Description:
+          - 'Latitude of the place or building.'
+          - '"na" : Data unknown or not available.'
+      -
+        Name: 'long'
+        Title: 'Longitude'
+        Type: 'geo_coordinate'
+        Sub Type: 'longitude'
+        Coordinate System: 'EPSG:4326'
+        Description:
+          - 'Longitude of the place or building.'
+          - '"na" : Data unknown or not available.'
+      -
+        Name: 'birth_year_yyyy'
+        Title: 'Birth Year (yyyy)'
+        Type: 'datetime'
+        Sub Type: 'year'
+        Format: 'YYYY'
+        Description:
+          - 'Birth year of the person.'
+          - '"na" : Data unknown or not available.'
+      -
+        Name: 'death_year_yyyy'
+        Title: 'Death Year (yyyy)'
+        Type: 'datetime'
+        Sub Type: 'year'
+        Format: 'YYYY'
+        Description:
+          - 'Death year of the person.'
+          - '"na" : Data unknown or not available.'
+      -
+        Name: 'feature_type'
+        Title: 'Feature type'
+        Type: 'text'
+        Sub Type: 'general'
+        Description:
+          - 'Term that describes the role or characteristic of the building or place.'
+          - '"na" : Data unknown or not available.'
+      -
+        Name: 'year_started_yyyy'
+        Title: 'Year started yyyy'
+        Type: 'datetime'
+        Sub Type: 'year'
+        Format: 'YYYY'
+        Description:
+          - 'Year of establishment of the organisation, year of name change of the
+            organisation or year of merger between two or more organisations.'
+          - '"na" : Data unknown or not available.'
+      -
+        Name: 'year_ended_yyyy'
+        Title: 'Year ended yyyy'
+        Type: 'datetime'
+        Sub Type: 'year'
+        Format: 'YYYY'
+        Description:
+          - 'Year in which the organisation ended, year of name change of the organisation,
+            or year of merger between two or more organisations.'
+          - '"na" : Data unknown or not available.'
+      -
+        Name: 'occupation'
+        Title: 'Occupation'
+        Type: 'text'
+        Sub Type: 'general'
+        Description:
+          - 'Occupation of the person.'
+          - ''
+          - 'Multiple occupations are separated by the "|" character.'
+          - '"na" : Data unknown or not available.'
+  -
+    Identifier: 'bdb8f8cc-16d2-4a93-b214-991c5d32d5ef'
+    Title: 'NLB Name Authorities Relationships'
+    Url: 'https://storage.data.gov.sg/nlb-name-authorities/resources/nlb-name-authorities-relationships-2020-05-27T07-14-24Z.csv'
+    Format: 'CSV'
+    Coverage: '2019-02-15 to 2020-05-27'
+    Description: 'Contains name authorities and their relationships (e.g. variant
+      forms of the name).'
+    Last Updated: '2020-05-27T07:14:24.559043'
+    Schema:
+      -
+        Name: 'key_uid'
+        Title: 'Key UID'
+        Type: 'text'
+        Sub Type: 'general'
+        Description: 'Unique identifier of the key entity.'
+      -
+        Name: 'key_descriptor'
+        Title: 'Key Descriptor'
+        Type: 'text'
+        Sub Type: 'general'
+        Description: 'Standardised preferred name of the key entity for indexing purposes.
+          It may be established differently from its original form.'
+      -
+        Name: 'key_vocabulary'
+        Title: 'Key Vocabulary'
+        Type: 'text'
+        Sub Type: 'general'
+        Description:
+          - 'Category of the key entity.'
+          - ''
+          - 'GeoBuildings: Buildings and structures in Singapore that are historically
+            or culturally significant.'
+          - ''
+          - 'Geographics: Names of streets and places in Singapore that includes locations
+            and significant landmarks such as historic sites as well as streets, roads,
+            islands, rivers, canals, hills and parks.'
+          - ''
+          - 'Organisations: Names of Singapore-related organisations.'
+          - ''
+          - 'People: Names of mainly Singapore-related people.'
+      -
+        Name: 'relationship_type'
+        Title: 'Relationship Type'
+        Type: 'text'
+        Sub Type: 'general'
+        Description:
+          - 'Type of relationship between the entities.'
+          - ''
+          - 'UF: Used For - variant name(s) of the entity.'
+          - ''
+          - 'BT: Broader Term - A term or name which is broader in definition and
+            scope.'
+          - ''
+          - 'NT: Narrower Term - A term or name which is narrower in definition and
+            scope.'
+          - ''
+          - 'Predecessor: The name that the organisation or place was previously known
+            as.'
+          - ''
+          - 'Successor: The name that the organisation or place was subsequently known
+            as.'
+          - ''
+          - 'RT: Related Term - A name that is associated or connected with an entity,
+            such as sibling organisations, or organisations resulting from a merger
+            or split.'
+          - '"na" : Data unknown or not available.'
+      -
+        Name: 'related_uid'
+        Title: 'Related UID'
+        Type: 'text'
+        Sub Type: 'general'
+        Description:
+          - 'Unique identifier of the related entity.'
+          - '"na" : Data unknown or not available.'
+      -
+        Name: 'related_descriptor'
+        Title: 'Related Descriptor'
+        Type: 'text'
+        Sub Type: 'general'
+        Description:
+          - 'Standardised preferred name of the related entity for indexing purposes.
+            It may be established differently from its original form.'
+          - '"na" : Data unknown or not available.'
+      -
+        Name: 'related_vocabulary'
+        Title: 'Related Vocabulary'
+        Type: 'text'
+        Sub Type: 'general'
+        Description:
+          - 'Category of the related entity.'
+          - ''
+          - 'GeoBuildings: Buildings and structures in Singapore that are historically
+            or culturally significant.'
+          - ''
+          - 'Geographics: Names of streets and places in Singapore that includes locations
+            and significant landmarks such as historic sites as well as streets, roads,
+            islands, rivers, canals, hills and parks.'
+          - ''
+          - 'Organisations: Names of Singapore-related organisations.'
+          - ''
+          - 'People: Names of mainly Singapore-related people.'
+          - '"na" : Data unknown or not available.'

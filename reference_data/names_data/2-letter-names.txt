@@ -1,0 +1,75 @@
+All two-leter strings found across >7M unique names in name_data
+---
+BD BK CJ CS DB DG DJ GC HM HQ
+HR JB JJ JR KC KT LJ LV MC MD
+MJ MM NG NJ NN PJ PR RJ RK SJ
+SR ST TC TD TJ TK VM XG
+---
+
+Regex to match any of the above:
+---
+([dj]b|[bmt]d|[dnx]g|[brt]k|[hmv]m|nn|hq|[hjps]r|cs|[ks]t|lv|[cdjlmnprst]j|[gkmt]c)
+---
+
+OH ON	ok
+
+MD OH	ok
+
+QQ OH
+	Fails "novowel"
+	QQ interp as "initial" as it "Q.Q." == "QQ"
+	Europe: fail - initials not allowed
+	non-Europe, initial OK, so pass
+
+	Now: A.B.C. ...
+	Next: <char>{1,2} ??
+
+QQ QQ	bad - Avoid "XXXX" - intials in both givenName and surname
+	<initials> <initials>
+	"QW" "AM" ok
+	"QW "QW" bad
+	"QW" "Ng" ok
+
+---
+Indonesia - surname, or only givenName or surname may be only punctuation
+	e.g. only "-" "." ","
+
+Hasan .	ok	givenName required
+
+. Hasan	bad
+
+QQ .	bad	- can't have a name with only intials
+
+. .	bad - no all-punctuation for givenName
+
+Q .	bad
+
+Hasan Q	ok
+Q Hasan	bad - givenName may not be single initial
+Hasan QW ok - "QW" as if two-letter initials
+
+	"Initial" one or (two letters with no vowels) in isolation and not in whitelist
+
+Full name validation
+	pfx: "Mr.", gn: ".", mn: "Hasan", sn: ".", sfx: "PhD"
+	display ". ."
+	fullName = "Mr. . Hasan . PhD" // bad - with middleName only
+
+	Rule: givenName or surname must be a valid name
+		- not initial
+		- not punct
+		- not keybd Banging
+		- not repeating pattern
+		- etc.
+	But: other fields MAY be
+		- single initial
+		- two-ltter novowel (as initial)
+		- all punctuation, but not repeating pattern
+
+Logic to determine script (as part of mixed script)
+can use similar logic
+	elememt[x]:Set: not-intial
+	element[x]:Set: all-punct
+	. . .
+	rule: boolean of allowed attributes for fullName XOR conditions
+	not allowed {all-punct|initia}&&{all-punct|initial}
